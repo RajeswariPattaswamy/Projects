@@ -1,11 +1,5 @@
 
- 👋 Hi, I’m RajeswariPattaswamy, everyone calls me Raj.
- 
-I’m interested in learning more about mobile applications.
-  
-I’m currently learning android programming in java.
-  
-I’m looking to collaborate on ... any project involving mobile implementation.
+
   
    
 
